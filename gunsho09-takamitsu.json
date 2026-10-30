@@ -1,10 +1,15 @@
 {
- "work": "高光集",
+ "work": "高光集（群書類従本）",
  "work_id": "gunsho09-takamitsu",
  "repo": "kumoi-no-fumigura/takamitsu",
  "yomi": "たかみつしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安中期（10世紀）",
+  "author": "藤原高光（?〜994）",
+  "desc": "藤原師輔の子で、出家して多武峰に住んだ藤原高光の家集。母の死を悼む歌や出家後の贈答を収める小さな集。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -546,6 +551,6 @@
   "poems": 44,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
